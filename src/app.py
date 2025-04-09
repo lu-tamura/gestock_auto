@@ -3,6 +3,7 @@
 
 
 def soma(a,b):
+
     return a+b
 
 #---------------------------------------------------------
@@ -11,6 +12,7 @@ def soma(a,b):
 
 def eh_par(n):
     if n%2 == 0:
+        
         return True
     else:
         return False
